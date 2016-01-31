@@ -1,5 +1,6 @@
 # Developing_Data_Products
-Module 9 of Data Science Certification Course
+Module 9 of Data Science Certification Course. Application to choose the right car for your trip!
+This app helps you to choose a car for a trip, using the mtcars dataset from [R].
 
 The Peer Assessment module consist of the following:
 
